@@ -1,0 +1,23 @@
+name: MUDHENWATER
+favicon: null
+layout_spectrum: 0.9832087389659137
+typography_spectrum: 0.006889299489557743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9084132255520672
+  lightness: 0.4026164198294282
+  saturation: 0.7009708900004625
+  rhythmicContrast: 0.5253475110512227
+purpose: []
