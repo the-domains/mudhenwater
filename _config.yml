@@ -1,6 +1,6 @@
 name: MUDHENWATER
 favicon: null
-layout_spectrum: 0.9832087389659137
+layout_spectrum: 0.02656
 typography_spectrum: 0.006889299489557743
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ccb4a4'
     - '#ef8375'
   brandStrength: 1
-  lightness: 0.75
-  saturation: 0.625
+  lightness: 0.5625
+  saturation: 0.8125
   rhythmicContrast: 1
 purpose: []
